@@ -38,3 +38,8 @@ https://discord.gg/flipperzero-unofficial
 
 ## Awsome Flipper Repo from @djsime1 :
 https://github.com/djsime1/awesome-flipperzero
+
+
+
+## Software:
+https://flipperzero.one/update
