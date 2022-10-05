@@ -1,5 +1,5 @@
 # Flipper-Zero
-Collection of Flipper Stuff
+A small Collection of some Flipper Stuff
 
 Rolling Code analytics via Pandwarf (Supports .sub):
 >https://rolling.pandwarf.com/account/login/?next=/input-from-flipper-zero-sub-file
