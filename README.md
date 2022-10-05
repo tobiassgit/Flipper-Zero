@@ -43,3 +43,6 @@ https://github.com/djsime1/awesome-flipperzero
 
 ## Software:
 https://flipperzero.one/update
+
+## Reddit
+https://www.reddit.com/r/flipperzero/
