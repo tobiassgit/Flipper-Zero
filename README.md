@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=QhuTgyaQ07E&t=0s
 >Install via Browser (Worked for me):
 https://my.flipp.dev/?url=https://unleashedflip.com/builds/flipper-z-f7-update-un1-0f9ea9.tgz&channel=dev-cfw&version=un1-0f9ea9
 
->Unleashed Firmware Discord(International):
+>Unleashed Firmware Discord (International):
 https://discord.gg/flipperzero-unofficial
 
 
