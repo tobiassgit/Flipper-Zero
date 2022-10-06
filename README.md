@@ -1,8 +1,26 @@
-# Flipper-Zero
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+to+the+🐬...;FlipperHub🐬&center=true&size=30">
+  </a>
+</h1>
 
-<p align="left">
-<a href="https://twitter.com/intent/follow?screen_name=tobiasstw"><img src="https://img.shields.io/twitter/follow/tobiasstw?style=social&logo=twitter" alt="follow on Twitter"></a>
+<p align="center"><br/>
+  
+<img src="https://media.giphy.com/media/14abFyeRqOtane/giphy.gif" width="400"> 
+
 </p>
+
+
+![GitHub Stars](https://img.shields.io/github/stars/tobiassgit?style=social)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub Followers](https://img.shields.io/github/followers/tobiassgit?style=social)](https://github.com/I-Am-Jakoby?tab=followers)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub Twitter](https://img.shields.io/twitter/follow/tobiasstw?style=social)](https://twitter.com/I_Am_Jakoby)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Profile views](https://gpvc.arturio.dev/tobiassgit?v=3) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 # A small Collection of some Flipper Stuff
 
