@@ -20,7 +20,7 @@ https://flipper.pingywon.com/flipper/
 
 ## Firmware by @RogueMaster https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 
-HowTo from Lab401 on YouTube:
+HowTo install RogueMaster from Lab401 on YouTube:
 https://www.youtube.com/watch?v=vYiQ3DeNbv4&t=63s&ab_channel=Lab401
 
 HowTo flash Wifi Devboard from Lab401 on YouTube:
@@ -34,15 +34,5 @@ https://my.flipp.dev/?url=https://unleashedflip.com/builds/flipper-z-f7-update-u
 Unleashed Firmware Discord (International):
 https://discord.gg/flipperzero-unofficial
 
-
-
-## Awsome Flipper Repo from @djsime1 :
-https://github.com/djsime1/awesome-flipperzero
-
-
-
-## Software:
-https://flipperzero.one/update
-
-## Reddit
-https://www.reddit.com/r/flipperzero/
+## Good explanation of how SubGhz works:
+https://www.youtube.com/watch?v=CNodxp9Jy4A&t=372s&ab_channel=Veritasium
