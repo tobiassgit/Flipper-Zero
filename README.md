@@ -13,9 +13,9 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/tobiassgit?style=social)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub Followers](https://img.shields.io/github/followers/tobiassgit?style=social)](https://github.com/I-Am-Jakoby?tab=followers)
+[![GitHub Followers](https://img.shields.io/github/followers/tobiassgit?style=social)](https://github.com/tobiasstw?tab=followers)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![GitHub Twitter](https://img.shields.io/twitter/follow/tobiasstw?style=social)](https://twitter.com/I_Am_Jakoby)
+[![GitHub Twitter](https://img.shields.io/twitter/follow/tobiasstw?style=social)](https://twitter.com/tobiasstw)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Profile views](https://gpvc.arturio.dev/tobiassgit?v=3) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
